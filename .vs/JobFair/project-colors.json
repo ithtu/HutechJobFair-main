@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0214caba-4747-46f1-8e6f-1a8d7af7d497": {
+      "ProjectGuid": "0214caba-4747-46f1-8e6f-1a8d7af7d497",
+      "DisplayName": "JobFair.Web",
+      "ColorIndex": 0
+    },
+    "030df282-a651-4f80-b53d-46b7f0b72b35": {
+      "ProjectGuid": "030df282-a651-4f80-b53d-46b7f0b72b35",
+      "DisplayName": "JobFair.DomainModels",
+      "ColorIndex": 1
+    },
+    "a5403730-fc97-4a2c-864b-821d68704df8": {
+      "ProjectGuid": "a5403730-fc97-4a2c-864b-821d68704df8",
+      "DisplayName": "JobFair.ViewModels",
+      "ColorIndex": 2
+    },
+    "8427fc67-9daa-43bc-ad1e-44509fe11aba": {
+      "ProjectGuid": "8427fc67-9daa-43bc-ad1e-44509fe11aba",
+      "DisplayName": "JobFair.Services",
+      "ColorIndex": 3
+    },
+    "1a9d8708-c67d-4a7e-bbc7-b0970383a558": {
+      "ProjectGuid": "1a9d8708-c67d-4a7e-bbc7-b0970383a558",
+      "DisplayName": "JobFair.Shared",
+      "ColorIndex": 4
+    },
+    "e24caa5e-069b-46d6-a792-9beae6ca3511": {
+      "ProjectGuid": "e24caa5e-069b-46d6-a792-9beae6ca3511",
+      "DisplayName": "JobFair.Shared",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
